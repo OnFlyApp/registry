@@ -1,0 +1,83 @@
+{
+  "go": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".go"
+        ],
+        "sha256": "58f2e62fa459c85779826e0080c8f2e443d6b70fc6320e4b2f417e2be9a79db3",
+        "url": "https://github.com/OnFlyApp/ext-parser-go/releases/download/v0.1.0/go-parser.wasm"
+      }
+    }
+  },
+  "javascript": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".mjs",
+          ".cjs"
+        ],
+        "sha256": "8bf051071e77c328dbb9be8222d34925f46696b0c7880f1f7c146a6b28f310be",
+        "url": "https://github.com/OnFlyApp/ext-parser-javascript/releases/download/v0.1.0/js-parser.wasm"
+      }
+    }
+  },
+  "php": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".php",
+          ".phtml",
+          ".inc"
+        ],
+        "sha256": "6655500f9301c327e0b933d7f878fea3ff1d2bf8ddbe5c6d974f01711825bdce",
+        "url": "https://github.com/OnFlyApp/ext-parser-php/releases/download/v0.1.0/php-parser.wasm"
+      }
+    }
+  },
+  "python": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".py",
+          ".pyi"
+        ],
+        "sha256": "60d870bce6b638f1bb915e733f09e1bece0d768716e5616b47c16d9acc06eee8",
+        "url": "https://github.com/OnFlyApp/ext-parser-python/releases/download/v0.1.0/python-parser.wasm"
+      }
+    }
+  },
+  "rust": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".rs"
+        ],
+        "sha256": "04bfa2bbf09afe42a855a9269059a30835e5412b3bb661f13842ba102da38958",
+        "url": "https://github.com/OnFlyApp/ext-parser-rust/releases/download/v0.1.0/rust-parser.wasm"
+      }
+    }
+  },
+  "typescript": {
+    "latest": "0.1.0",
+    "versions": {
+      "0.1.0": {
+        "extensions": [
+          ".ts",
+          ".tsx",
+          ".mts",
+          ".cts"
+        ],
+        "sha256": "686b3fd0da12c33bf33f1cb87079c6b572fcee39cbaaef7bedb42a0bd80da481",
+        "url": "https://github.com/OnFlyApp/ext-parser-typescript/releases/download/v0.1.0/ts-parser.wasm"
+      }
+    }
+  }
+}
