@@ -21,7 +21,7 @@
           ".mjs",
           ".cjs"
         ],
-        "sha256": "8bf051071e77c328dbb9be8222d34925f46696b0c7880f1f7c146a6b28f310be",
+        "sha256": "71e60b36f6b4c527a88ad66c04ea28d62ebd26755de2cb332f59381a9ac30b24",
         "url": "https://github.com/OnFlyApp/ext-parser-javascript/releases/download/v0.1.0/js-parser.wasm"
       }
     }
@@ -35,7 +35,7 @@
           ".phtml",
           ".inc"
         ],
-        "sha256": "6655500f9301c327e0b933d7f878fea3ff1d2bf8ddbe5c6d974f01711825bdce",
+        "sha256": "caa0a60cc3f45512e663357c1a8344795ab2774970a75304a9fe3b925801eec5",
         "url": "https://github.com/OnFlyApp/ext-parser-php/releases/download/v0.1.0/php-parser.wasm"
       }
     }
@@ -48,7 +48,7 @@
           ".py",
           ".pyi"
         ],
-        "sha256": "60d870bce6b638f1bb915e733f09e1bece0d768716e5616b47c16d9acc06eee8",
+        "sha256": "cecad8ddbb0337d94845fa5100c3d2b243d684cae4be5b31565d23182dcf1559",
         "url": "https://github.com/OnFlyApp/ext-parser-python/releases/download/v0.1.0/python-parser.wasm"
       }
     }
@@ -60,7 +60,7 @@
         "extensions": [
           ".rs"
         ],
-        "sha256": "04bfa2bbf09afe42a855a9269059a30835e5412b3bb661f13842ba102da38958",
+        "sha256": "cc7ba51ee9baa3b550765eccd548b0fae46c55e6c53458a78622a57ac381240a",
         "url": "https://github.com/OnFlyApp/ext-parser-rust/releases/download/v0.1.0/rust-parser.wasm"
       }
     }
@@ -75,7 +75,7 @@
           ".mts",
           ".cts"
         ],
-        "sha256": "686b3fd0da12c33bf33f1cb87079c6b572fcee39cbaaef7bedb42a0bd80da481",
+        "sha256": "39a6e953bcbc1582556294d7acb8d26e476d2f9125a991de974dc6eadbdd3a37",
         "url": "https://github.com/OnFlyApp/ext-parser-typescript/releases/download/v0.1.0/ts-parser.wasm"
       }
     }
