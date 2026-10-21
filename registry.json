@@ -6,7 +6,7 @@
         "extensions": [
           ".go"
         ],
-        "sha256": "58f2e62fa459c85779826e0080c8f2e443d6b70fc6320e4b2f417e2be9a79db3",
+        "sha256": "dae63ed4de6463c451821c7cca1a9ad4342f4dd7c6249437c3f5db10eb7cf61f",
         "url": "https://github.com/OnFlyApp/ext-parser-go/releases/download/v0.1.0/go-parser.wasm"
       }
     }
@@ -35,7 +35,7 @@
           ".phtml",
           ".inc"
         ],
-        "sha256": "caa0a60cc3f45512e663357c1a8344795ab2774970a75304a9fe3b925801eec5",
+        "sha256": "2c2c2cdc51e907b5747904528bfba2a2ab5949f2ac7209766445c13fb281965d",
         "url": "https://github.com/OnFlyApp/ext-parser-php/releases/download/v0.1.0/php-parser.wasm"
       }
     }
