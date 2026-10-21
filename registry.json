@@ -6,7 +6,7 @@
         "extensions": [
           ".go"
         ],
-        "sha256": "dae63ed4de6463c451821c7cca1a9ad4342f4dd7c6249437c3f5db10eb7cf61f",
+        "sha256": "46d1ff24a948dd92dac86bfb2016493e047277762283bbfe4c93f9b5441c93b3",
         "url": "https://github.com/OnFlyApp/ext-parser-go/releases/download/v0.1.0/go-parser.wasm"
       }
     }
